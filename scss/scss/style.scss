@@ -1,0 +1,10 @@
+@import 'variables';
+@import 'reset';
+i{
+   
+    color: rgba(0, 145, 255, 0.801);
+    padding: $padding_main;
+   &:hover{
+    color: $color_main;
+   }
+}
